@@ -1,4 +1,4 @@
-# Gym Data Base
+# IronFitGym Data Base
 
 This repository contains the SQL scripts and documentation for the IronFitGym database, designed to manage various aspects of a gym chain with locations in five different cities. The database is structured to handle information about locations, departments, employees, promotions, products, and equipment. Below is a summary of the tables included in the database:
 
