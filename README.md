@@ -60,3 +60,6 @@ To set up and run the IronFitGym database, you need to use XAMPP with Apache and
 4. **Configure Database**: Ensure the database configuration settings match your environment (e.g., username, password).
 
 This setup will enable you to manage and query the IronFitGym database efficiently. For detailed instructions and SQL scripts, refer to the files in this repository.
+
+![Gym-DB](https://github.com/user-attachments/assets/9647e1b9-c735-4260-ac29-cb04e10040fd)
+
