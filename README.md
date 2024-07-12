@@ -52,6 +52,8 @@ This repository contains the SQL scripts and documentation for the IronFitGym da
   - **data_achizitie**: Acquisition date.
 - **Purpose**: Tracks gym equipment, including location and acquisition details.
 
+![Gym-DB2](https://github.com/user-attachments/assets/352e0aee-4456-4c9a-a8ff-53533146cd68)
+
 ## Running the Database
 
 To set up and run the IronFitGym database, you need to use XAMPP with Apache and MySQL modules enabled. Follow these steps:
